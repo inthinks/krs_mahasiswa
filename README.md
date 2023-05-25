@@ -1,2 +1,2 @@
-# screening_test
-sceening_test
+# KRS MAHASISWA
+daftar krs mahasiswa
